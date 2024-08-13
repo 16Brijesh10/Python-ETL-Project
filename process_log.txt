@@ -1,0 +1,15 @@
+2024-08-13 22:44:20 : Data extraction initiated
+2024-08-13 22:44:21 : Data extraction complete. Initiating Transformation process
+2024-08-13 22:44:23 : Data transformation complete. Initiating Loading process
+2024-08-13 22:44:23 : Data saved to CSV file and loaded to Database as a table, Executing queries
+2024-08-13 22:44:23 : Process Complete
+2024-08-13 22:44:23 : Server Connection closed
+2024-08-13 23:06:50 : Data extraction initiated
+2024-08-13 23:06:52 : Data extraction complete. Initiating Transformation process
+2024-08-13 23:06:54 : Data transformation complete. Initiating Loading process
+2024-08-13 23:07:04 : Data extraction initiated
+2024-08-13 23:07:06 : Data extraction complete. Initiating Transformation process
+2024-08-13 23:07:07 : Data transformation complete. Initiating Loading process
+2024-08-13 23:07:07 : Data saved to CSV file and loaded to Database as a table, Executing queries
+2024-08-13 23:07:07 : Process Complete
+2024-08-13 23:07:07 : Server Connection closed
